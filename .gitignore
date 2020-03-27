@@ -128,5 +128,12 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+bak/
+
 data/COVID-19/
 data/DXY-COVID-19-Data/
+data/country-flag-icons/
+data/COVID-19-geographic-disbtribution-worldwide-*
+
+inset-poisson-regression*
+confirmed-cases-per-capita-*

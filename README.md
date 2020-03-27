@@ -24,12 +24,13 @@ Please read those excellent articles on the Tableau blog:
 * Look for mistakes and open an issue or pull request
 
 ## Example Output
-![Example output](confirmed-cases-per-capita-2020-03-20.png  "Example output")
+![Example output](example-output.png  "Example output")
 
 ## Data Sources
-### John Hopkins University CSSE Aggregated Data
-Primarily data from the John Hopkins Universities Center for System Science and Engineering GitHub repository on COVID-19
-is used in the plot. Actually all lines, except for "Wuhan - China" are plotted based upon this dataset. 
+### ECDC Data
+Primarily data from the European Center for Disease Prevention and Control is used. Actually all lines, except for "Wuhan - China" are plotted based upon this dataset. 
+
+[ECDC COVID-19 Public Dataset](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
 
 ## Doubling Time Estimation
 The doubling time and its confidence interval are estimated using a generalized linear model
