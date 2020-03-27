@@ -37,7 +37,7 @@ The doubling time and its confidence interval are estimated using a generalized 
 fitting of a [Poisson regression (log-normal)](https://en.wikipedia.org/wiki/Poisson_regression)
 model to the cumulative cases using maximum likelihood estimation. 
 
-[Satsmodels GLM module](https://www.statsmodels.org/stable/glm.html) 
+[Statsmodels GLM module](https://www.statsmodels.org/stable/glm.html) 
 is used as the software implementation.
 
 Our log-linear model for the cumulative case count y at day x is:
